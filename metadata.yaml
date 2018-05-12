@@ -1,0 +1,27 @@
+_repo: The-proceedings-of-the-Canadian-Eclipse-Party-1869_35375
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ashe, E. D. (Edward David)
+    alias: Ashe, Edward David
+    birthdate: 1813
+    deathdate: 1895
+    gutenberg_agent_id: '37637'
+    url: http://www.gutenberg.org/2009/agents/37637
+description: ''
+gutenberg_issued: '2011-02-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35375'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QB'
+- !lcsh 'Solar eclipses -- 1869'
+title: The proceedings of the Canadian Eclipse Party, 1869
+url: http://www.gutenberg.org/ebooks/35375
